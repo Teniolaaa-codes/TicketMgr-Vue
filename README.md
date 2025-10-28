@@ -9,7 +9,7 @@ This is the Vue adaptation of the original React-based TicketMgr app.
 
 🔗 **GitHub Repo:** https://github.com/Teniolaaa-codes/Ticketmgr-Vue
 
-🔗 **Netlify Live URL:** 
+🔗 **Netlify Live URL:** https://teni-ticketmgr-vue.netlify.app/
 
 ---
 
